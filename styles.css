@@ -78,7 +78,7 @@ h1 {
   width: 100%;
 }
 .middle {
-  height: 365px;
+  height: 250px;
 }
 
 h4 {
@@ -112,6 +112,6 @@ footer {
 .plus {
   position: relative;
   max-width: 80px;
-  left: 307px;
-  top: 7px;
+  top: 6px;
+  right: -138px;
 }
